@@ -1,0 +1,15 @@
+.container{
+    margin-top: 80px;
+}
+
+.pending{
+    color: black;
+}
+
+.correct{
+    color: greenyellow;
+}
+
+.wrong{
+    color: red;
+}
